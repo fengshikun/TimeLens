@@ -19,6 +19,8 @@ TimeLens rethinks video temporal grounding (VTG) with MLLMs along two axes:
 In this repository, we release:
 - 🤖 **TimeLens Models**: State-of-the-art open-source models for video temporal grounding.
   - [Model Usage](#-using-timelens-models)
+  - [Timestamp Encoding Strategies](./docs/timestamp_encoding_examples.md)
+  - [Interleaved Textual Timestamp Encoding Implementation](./docs/interleaved_textual_timestamp_encoding.md)
 - 📊 **TimeLens-Bench**: a comprehensive, high-quality evaluation benchmark for video temporal grounding.
   - 🏆 [Leaderboard](https://timelens-arc-lab.github.io/#leaderboard)
   - [Evaluation Guide](#-evaluation-on-timelens-bench)
